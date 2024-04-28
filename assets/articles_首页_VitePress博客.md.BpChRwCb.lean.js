@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s}from"./chunks/framework.Baa73rbD.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/首页/VitePress博客.md","filePath":"articles/首页/VitePress博客.md"}'),r={name:"articles/首页/VitePress博客.md"};function a(c,i,o,n,_,p){return s(),t("div")}const m=e(r,[["render",a]]);export{l as __pageData,m as default};
